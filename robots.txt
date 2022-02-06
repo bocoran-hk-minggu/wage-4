@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bocoran-hk-minggu.github.io/wage-4/sitemap.xml
